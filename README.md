@@ -1,6 +1,6 @@
 # yasaswi-kondaveti
 My GitHub profile introduction
-# 👋 Hi, I’m Yasaswi Kondaveti  
+# 👋 Hi, I’m Lakshmi Yasaswi Kondaveti  
 
 🎓 B.Tech Student | 💻 Aspiring Software Engineer | 📊 Learning Java, DSA, OS  
 
@@ -15,9 +15,9 @@ My GitHub profile introduction
 ---
 
 ## 📂 Key Repositories
-- [To-Do Manager](https://github.com/kl2400030249/to-do-manager) → Console-based task manager in Java with design patterns  
-- [Weekly Contests](https://github.com/kl2400030249/weekly-contests) → My coding contest solutions  
-- [Basic Codes](https://github.com/kl2400030249/basic-codes) → Fundamental practice programs in C, Java, Python  
+- [To-Do Manager](https://github.com/yasaswi-kondaveti/to-do-manager) → Console-based task manager in Java with design patterns  
+- [Weekly Contests](https://github.com/yasaswi-kondaveti/weekly-contests) → My coding contest solutions  
+- [Basic Codes](https://github.com/yasaswi-kondaveti/basic-codes) → Fundamental practice programs in C, Java, Python  
 
 ---
 
@@ -29,5 +29,4 @@ My GitHub profile introduction
 ---
 
 ## 📫 Connect with Me
-- GitHub: [@yasaswi-kondaveti](https://github.com/kl2400030249)  
-- (You can add LinkedIn or Email here later)
+- GitHub: [@yasaswi-kondaveti](https://github.com/yasaswi-kondaveti)  
